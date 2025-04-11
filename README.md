@@ -42,6 +42,7 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 
 2. **MTB Agent**  
    A lightweight mobile solution for agents managing transactions and accounts linked with MTB Pay.
+   - Coming Soon
 
 3. **Aharaathi DigiX**  
    A health & wellness app offering BMI tracking, healthy weight suggestions, and nutrition guidance.  
