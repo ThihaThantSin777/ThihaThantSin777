@@ -104,7 +104,7 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 
 ### 📬 Let’s Connect
 
-- 📍 Yangon, Myanmar  
+- 📍 Bangkok, Thailand
 - 📧 [thantsin7755@gmail.com](mailto:thantsin7755@gmail.com)  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/thiha-thantsin-bb3b25224)  
 - 💻 [GitHub](https://github.com/ThihaThantSin777)  
