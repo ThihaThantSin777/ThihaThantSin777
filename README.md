@@ -87,18 +87,25 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 - **BSc (Hons) in Computing**  
   *University of Greenwich (2024 – 2025)*  
   🏅 *First Class (2nd Division)*
+  - [See Recommendation Letter](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/Thiha%20Thant%20Sin_Course%20Recommendation.pdf)
 
 - **Software Engineer Diploma**  
   *NMDC (2018 – 2020)*
+  - [See Diploma](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/SCAN0017.PDF)
 
 - **System Creator Diploma**  
   *Metro College (2019 – 2021)*
+  - [See Diploma In English ](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/SCAN0018.PDF)
+  - [See Diploma In Japanese](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/SCAN0019.PDF)
 
 - **Dagon University (2017 – 2020)** *(Did not graduate due to COVID-19 & military coup)*
 
 - **Certifications**  
   - ✅ *Information Technology Passport Examination (IP)*  
+  - [See Certificate](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/IP%20Certificate%20.pdf)
+
   - ✅ *Fundamental Information Technology Engineer Examination (FE)*
+  - [See Certificate](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/FE%20Certificate%20.pdf)
 
 ---
 
