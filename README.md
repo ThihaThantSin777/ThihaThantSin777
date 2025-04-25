@@ -87,7 +87,7 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 - **BSc (Hons) in Computing**  
   *University of Greenwich (2024 – 2025)*  
   🏅 *First Class (2nd Division)*
-  - [See Recommendation Letter](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/Thiha%20Thant%20Sin_Course%20Recommendation.pdf)
+  - [See Degree](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/Thiha%20Thant%20Sin%20(F).pdf)
 
 - **Software Engineer Diploma**  
   *NMDC (2018 – 2020)*
