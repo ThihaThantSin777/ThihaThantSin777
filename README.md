@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Thiha Thant Sin  
-### 🧠 Senior Mobile Developer | Flutter & Kotlin Specialist | 4+ Years Experience
+### 🧠 Senior Mobile Developer | Flutter & Kotlin Specialist | 8+ Years Experience
 
 ![banner](https://raw.githubusercontent.com/ThihaThantSin777/ThihaThantSin777/refs/heads/main/84cbdcb3-bc8e-47ef-b054-320d5d7443ba.png) 
 
 ---
 
-I’m **Thiha Thant Sin**, a passionate and experienced **Senior Mobile Developer** with over **4 years** of professional experience. I specialize in building modern, high-performing mobile apps using **Flutter** and **Kotlin**, with a strong focus on clean architecture, scalability, and performance.
+I’m **Thiha Thant Sin**, a passionate and experienced **Senior Mobile Developer** with over **8 years** of professional experience. I specialize in building modern, high-performing mobile apps using **Flutter** and **Kotlin**, with a strong focus on clean architecture, scalability, and performance.
 
 Whether it's launching a fintech solution, building a telemedicine platform, or deploying educational tools, I bring creativity and precision to every line of code.
 
