@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Thiha Thant Sin  
-### 🧠 Senior Mobile Developer | Flutter & Kotlin Specialist | 8+ Years Experience
+### 🧠 Mobile Developer | Kotlin & Swift Specialist | Cross-platform Expert | 8+ Years Experience
 
 ![banner](https://raw.githubusercontent.com/ThihaThantSin777/ThihaThantSin777/refs/heads/main/84cbdcb3-bc8e-47ef-b054-320d5d7443ba.png) 
 
 ---
 
-I’m **Thiha Thant Sin**, a passionate and experienced **Senior Mobile Developer** with over **8 years** of professional experience. I specialize in building modern, high-performing mobile apps using **Flutter** and **Kotlin**, with a strong focus on clean architecture, scalability, and performance.
+I’m **Thiha Thant Sin**, a passionate and experienced **Senior Mobile Developer** with over **8 years** of professional experience. I specialize in building modern, high-performing mobile apps using **Kotlin**, **Swift** and **Flutter** with a strong focus on clean architecture, scalability, and performance.
 
 Whether it's launching a fintech solution, building a telemedicine platform, or deploying educational tools, I bring creativity and precision to every line of code.
 
@@ -14,22 +14,29 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
-- Dart & Flutter (Android, iOS, Web)  
-- Kotlin (Jetpack Compose)  
-- Java, Swift, TypeScript, JavaScript, Python, C++  
+- Java
+- Kotlin
+- Swift
+- Dart
+- Flutter
+- HTML, CSS
+- Angular
+- VueJs
+- Python
+- JavaScript
+- PHP
+- Laravel
 
 **Tools & Libraries**  
 - Firebase (Auth, Firestore, Realtime DB, Remote Config, FCM)  
-- State Management: Provider, BLoC, GetX  
-- Databases: SQLite, Hive, Room  
+- Databases: SQL, Supabase, Hive, SQLite, MongoDB
 - REST API, GraphQL  
 - Google Maps, Google Wallet, WebView, Video Player  
 
 **Other Skills**  
 - Git & GitHub Actions  
-- CI/CD Pipelines  
-- Android/iOS Native Integration  
-- Firebase Crashlytics, Remote Config Controls
+- CI/CD Pipelines
+- Jenkins Pipeline
 
 ---
 
@@ -114,7 +121,6 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 - 📍 Bangkok, Thailand
 - 📧 [thantsin7755@gmail.com](mailto:thantsin7755@gmail.com)  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/thiha-thantsin-bb3b25224)  
-- 💻 [GitHub](https://github.com/ThihaThantSin777)  
 
 ---
 
