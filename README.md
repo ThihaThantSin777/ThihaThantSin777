@@ -83,7 +83,7 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
    - [Google Play](https://play.google.com/store/apps/details?id=com.shre.global&hl=th)  
    - [App Store](https://apps.apple.com/th/app/shre-global/id6478900901)
 
-10. **Myanmar Church Network Platform**  
+10. **The Shepherd**  
     A mobile/web-based system to connect churches, events, and spiritual content in Myanmar.  
     - [Google Play](https://play.google.com/store/apps/details?id=com.mcnp.myanmar_christian_platform&hl=en)
 
