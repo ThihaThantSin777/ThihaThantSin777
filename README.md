@@ -49,7 +49,8 @@ Whether it's launching a fintech solution, building a telemedicine platform, or 
 
 2. **MTB Agent**  
    A lightweight mobile solution for agents managing transactions and accounts linked with MTB Pay.
-   - Coming Soon
+   - [Google Play](https://play.google.com/store/apps/details?id=com.mtb.agent&hl=en)  
+   - [App Store](https://apps.apple.com/th/app/mtb-pay-agent/id6744884827)
 
 3. **Aharaathi DigiX**  
    A health & wellness app offering BMI tracking, healthy weight suggestions, and nutrition guidance.  
