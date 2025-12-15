@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Thiha Thant Sin**  
-### 🧠 Senior Mobile Developer • Kotlin | Swift | Flutter • 5+ Years Building Real-World Apps
+### 🧠 Senior Mobile Developer • Kotlin | Swift | Flutter • 7+ Years Building Real-World Apps
 
 ![banner](https://raw.githubusercontent.com/ThihaThantSin777/ThihaThantSin777/refs/heads/main/84cbdcb3-bc8e-47ef-b054-320d5d7443ba.png)
 
