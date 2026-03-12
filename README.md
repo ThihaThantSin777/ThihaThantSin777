@@ -3,7 +3,7 @@
 
 ![banner](https://raw.githubusercontent.com/ThihaThantSin777/ThihaThantSin777/refs/heads/main/84cbdcb3-bc8e-47ef-b054-320d5d7443ba.png)
 
-I’m **Thiha Thant Sin**, a passionate **Senior Mobile Developer** with over **5 years** of hands-on experience delivering high-quality, scalable, and production-ready mobile applications for **fintech, telemedicine, education, health & wellness, e-commerce,** and **digital identity** platforms.
+I’m **Thiha Thant Sin**, a passionate **Senior Mobile Developer** with over **7 years** of hands-on experience delivering high-quality, scalable, and production-ready mobile applications for **fintech, telemedicine, education, health & wellness, e-commerce,** and **digital identity** platforms.
 
 I specialize in crafting clean, maintainable code with **Kotlin, Swift, and Flutter**, and I love building apps that impact thousands of users across Android and iOS.
 
