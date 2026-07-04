@@ -1,223 +1,131 @@
-# 👋 Hi, I'm **Thiha Thant Sin**
-### 🧠 Senior Mobile Developer • Kotlin | Swift | Flutter • 7+ Years Building Real-World Apps
+# 👋 Hi, I'm **Thiha Thant Sin (Thomas)**
+
+### 🧠 Senior Mobile & Full-Stack Engineer • Flutter | Kotlin | Swift | Node.js
 
 ![banner](https://raw.githubusercontent.com/ThihaThantSin777/ThihaThantSin777/refs/heads/main/84cbdcb3-bc8e-47ef-b054-320d5d7443ba.png)
 
-I'm **Thiha Thant Sin**, a passionate **Senior Mobile Developer & Software Engineer** with over **7 years** of hands-on experience delivering high-quality, scalable, and production-ready mobile applications for **fintech, telemedicine, education, health & wellness, e-commerce,** and **digital identity** platforms.
+I am a highly versatile **Senior Mobile Engineer & Full-Stack Developer** with a proven track record of engineering scalable, production-ready ecosystems across **fintech, telemedicine, e-commerce, real-time communications, and digital identity platforms**.
 
-I specialize in crafting clean, maintainable code with **Kotlin, Swift, and Flutter**, and I love building apps that impact thousands of users across Android and iOS. Currently based in **Bangkok, Thailand**, working full-time at **Foxbith** handling both mobile and backend development.
-
----
-
-## ⚡ What I Do
-
-- Build high-performance mobile apps with **Kotlin**, **Swift**, and **Flutter**
-- Architect clean, scalable systems using **MVVM, Clean Architecture, Domain-Driven Design**
-- Integrate complex **REST APIs**, **Firebase**, **Payment Gateways**, and **Push Notifications**
-- Handle **backend development** alongside mobile (API design, system architecture)
-- Contribute to **system design**, **feature planning**, and **code review processes**
-- Deliver polished UI/UX with responsive layouts and custom widgets
-- Optimize performance, fix crashes, and write maintainable code
-- Deploy apps on **Google Play** and **Apple App Store**
-- Mentor **100+ students** in mobile development (Kotlin, Swift, Flutter)
-- Use **AI-augmented development** (Claude AI + Cursor) for architecture, code review, and project management
+I specialize in cross-platform mastery via **Flutter, Kotlin, and Swift**, paired with robust modern backend/DevOps infrastructure deployment. Currently based in **Bangkok, Thailand**, I serve as a **Frontend/Software Engineer at Foxbith**, designing full-stack architectures and shipping complex mobile and web systems.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Core Expertise
 
-### Languages
-- Kotlin
-- Swift
-- Dart
-- Java
-- JavaScript
-- PHP
-- Python
-- HTML, CSS
-
-### Frameworks & Platforms
-- Flutter
-- Android (Jetpack Compose, Java, Kotlin)
-- iOS (SwiftUI / UIKit)
-- KMP (Kotlin Multiplatform)
-- Laravel
-- Angular
-- VueJs
-
-### Tools & Services
-- Firebase (Auth, Firestore, Realtime DB, Remote Config, FCM)
-- Supabase, MongoDB, SQLite, Hive, SQL
-- REST API, GraphQL
-- Google Maps, Google Wallet, WebView, Video Player
-- NFC Read/Write
-- HealthKit (iOS)
-- Biometric Authentication
-- Git & GitHub Actions
-- CI/CD Pipelines, Jenkins
-- Strapi, WordPress
-
-### CMS
-- Strapi
-- WordPress
-
-### AI Tools
-- Claude AI
-- Cursor
+*   🚀 **Full-Stack & Mobile Architecture:** Design production-grade client apps (Flutter, React Native) and backend matching engines/CMS layers (Hono, Bun, PayloadCMS).
+*   🔌 **Native & Hybrid Synergy:** Seamlessly write native Kotlin and Swift integrations, utilizing platform channels, deep linking, and custom native lifecycle wrappers (like iOS CallKit).
+*   🛠️ **Hardware & Core Integrations:** Implement specialized mobile features including NFC Read/Write (NDEF, Host Card Emulation), Biometrics, and HealthKit.
+*   📱 **Dynamic UI Systems:** Architect backend-driven dynamic UI engines that render layouts, multi-step forms, and features entirely via API responses to bypass store review wait times.
+*   ☁️ **DevOps & Cloud Infrastructure:** Write Declarative Infrastructure as Code (Terraform), deploy to cloud services (GCP Cloud Run/SQL), manage secrets via 1Password, and configure robust trunk-based CI/CD workflows.
+*   👥 **Mentorship:** Instruct and guide over 100+ developers through architecture patterns (TDD, Clean Architecture), code reviews, and clean code practices.
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Technical Stack
 
-### Software Engineer — Foxbith *(Full-time, Hybrid)*
-📍 Bangkok, Thailand | Jan 2026 – Present
-- Works on both **mobile and backend development**
-- Contributes to **30% of system design** and feature planning
-- Actively participates in **code review** with the team
+### 🚀 Languages & Frameworks
+*   **Mobile Frameworks:** `Flutter & Dart` • `React Native` • `Native Android (Kotlin/Java)` • `Native iOS (Swift/SwiftUI)`
+*   **Web & Backend:** `Next.js` • `Hono` • `Bun` • `Node.js` • `Express` • `Laravel`
+*   **Databases:** `Firebase Firestore / Realtime DB` • `Cloud SQL` • `PostgreSQL` • `MongoDB` • `Hive`
 
-### Senior Mobile Engineer — BlueBox Global *(Remote)*
-📍 Australia | Jun 2025 – Present
-- Developed native Android features (UI Kit + SwiftUI) connected to Flutter via platform channels
-- Managed full app lifecycle: release management & deployment to both stores
-- Contributed to system architecture, security enhancements, performance improvements
-- Mentored junior developers and facilitated code reviews
-- Created comprehensive technical documentation
-
-### Senior Mobile Engineer — Dinger
-📍 Yangon, Myanmar | Oct 2020 – Sep 2024
-- Built and maintained **MTB Pay & MTB Agent** — secure fintech apps for Myanma Tourism Bank
-- Led native Kotlin feature development integrated with Flutter via platform channels
-- Contributed to architecture decisions, security protocols, and performance optimizations
-
-### Mobile Engineer — MMDS (Myanmar Digital Solutions)
-📍 Yangon, Myanmar | Jun 2018 – Oct 2020
-- Developed HealthTech & EdTech apps including Joy Detox, Healtppy Telemedicine, PADC.com.mm, Mother Finance
-- Integrated payment systems: Visa, MPU, KBZ Pay, Wave Pay
-- Implemented HealthKit, biometric auth, dynamic backend-driven UI
-
-### Mobile Instructor — CodeWall Technologies
-📍 Yangon, Myanmar | Nov 2022 – Present
-- Instructed **100+ students** in Kotlin, Swift, and Flutter
-- Conducted live demos on TDD, app architecture, real-world deployment
-- Mentored on clean code, performance optimization, maintainable project structure
+### ⚙️ Infrastructure & Tools
+*   **DevOps & Cloud:** `GCP (Cloud Run, Cloud SQL)` • `Terraform (IaC)` • `GitHub Actions` • `Bitbucket Pipelines` • `Trunk-based CI/CD`
+*   **Hardware/Specialized:** `NFC (NDEF, HCE)` • `iOS CallKit` • `Agora Voice RTC` • `Biometric Auth` • `Google Wallet`
+*   **CMS Platforms:** `PayloadCMS` • `Strapi` • `WordPress`
+*   **AI-Augmented Engineering:** `Claude Code` • `Cursor` • `AI-assisted architecture mapping`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Architecture
 
-### 1. Entertainment – Discover More
+### 1. 📞 Bumpcall *(Foxbith)* | `Apr 2026 – Present`
+A high-concurrency, real-time voice matching platform built from scratch on a monorepo architecture.
+*   **Full-Stack Engine:** Features a Flutter client (iOS, Android, Web), a custom PayloadCMS administrative dashboard, an edge-ready matching engine (**Hono + Bun**), and a fast Next.js web application.
+*   **Real-Time & Audio Logic:** Built state-driven talk/listen configurations and automated cooldowns via Firebase Firestore, alongside **Agora WebRTC** for low-latency 1:1 voice streaming.
+*   **Native iOS Bridging:** Directly wrapped native **iOS CallKit** components into the hybrid framework to handle background call states.
+*   **DevOps:** Deployed via **Terraform** to GCP Cloud Run and Cloud SQL, using 1Password secret injection and trunk-based deployment models.
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/bump-call/id6450914241) | [Google Play](https://play.google.com/store/apps/details?id=com.chartmaker.social.bumpcall&hl=en_US)
+
+### 2. 🍿 Entertainment – Discover More *(BlueBox Global)*
 A leading lifestyle and savings app — discover dining, travel, shopping, and entertainment offers seamlessly.
-- [App Store](https://apps.apple.com/au/app/entertainment-discover-more/id840550967)
-- [Google Play](https://play.google.com/store/apps/details?id=com.entertainmentbook.aus&hl=en)
+*   🔗 **Links:** [App Store](https://apps.apple.com/au/app/entertainment-discover-more/id840550967) | [Google Play](https://play.google.com/store/apps/details?id=com.entertainmentbook.aus&hl=en)
 
-### 2. 360ADWellness *(Personal Product — AI-Augmented)*
-My first Thailand-based product — a comprehensive service platform for **caregivers and Alzheimer's patients**. Connects treatment locations, nursing homes, hospitals, and wellness services in one place. Built using Claude AI for architecture & code review.
-- [App Store](https://apps.apple.com/th/app/360-ad-wellness/id1645492550)
-- [Google Play](https://play.google.com/store/apps/details?id=eisai.ad.wellness.app&hl=en_US)
+### 3. 🏥 360ADWellness *(Foxbith)*
+A Thailand-based, comprehensive service platform engineered for caregivers and Alzheimer’s patients. Built using Claude AI for architecture & code review.
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/360-ad-wellness/id1645492550) | [Google Play](https://play.google.com/store/apps/details?id=eisai.ad.wellness.app&hl=en_US)
 
-### 3. MTB Pay
+### 4. 💳 MTB Pay *(Dinger)*
 A full-featured fintech wallet for Myanma Tourism Bank — transfers, merchant payments, cash-in/out, bills, and top-ups.
-- [App Store](https://apps.apple.com/tr/app/mtb-pay/id6470009961)
-- [Google Play](https://play.google.com/store/apps/details?id=com.mtb.wallet&hl=en_US)
+*   🔗 **Links:** [App Store](https://apps.apple.com/tr/app/mtb-pay/id6470009961) | [Google Play](https://play.google.com/store/apps/details?id=com.mtb.wallet&hl=en_US)
 
-### 4. MTB Pay Agent
-A secure agent platform for MTB Agent Partners — cash-in, cash-out, fund transfers, and account management. Built with Flutter for consistent cross-platform performance.
-- [App Store](https://apps.apple.com/th/app/mtb-pay-agent/id6744884827)
-- [Google Play](https://play.google.com/store/apps/details?id=com.mtb.agent)
+### 5. 💼 MTB Pay Agent *(Dinger)*
+A secure agent platform for MTB Agent Partners — cash-in, cash-out, fund transfers, and account management. Built with Flutter.
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/mtb-pay-agent/id6744884827) | [Google Play](https://play.google.com/store/apps/details?id=com.mtb.agent)
 
-### 5. Mother Finance
-A dynamic loan application for normal users, employees, company owners, foreigners and overseas users. Powered by **backend-driven UI rendering** — features and layouts can be modified without an app update.
-- [App Store](https://apps.apple.com/th/app/mother-finance/id1427614551)
-- [Google Play](https://play.google.com/store/apps/details?id=mm.com.motherfinance.borrower)
+### 6. 🏦 Mother Finance *(MM-Digital-Solutions)*
+A dynamic fintech loan services application rendering real-time user credit scoring and flexible user management.
+*   **Dynamic UI Architecture:** Form layouts, routing paths, validation fields, and complete view hierarchies render on-the-fly from incoming API JSON structures, changing loan forms instantly without app store updates.
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/mother-finance/id1427614551) | [Google Play](https://play.google.com/store/apps/details?id=mm.com.motherfinance.borrower)
 
-### 6. Myanmar Teacher Platform
-An online learning application for Myanmar teachers. Maintained as **Technical Project Manager** and personally developed new features.
-- [App Store](https://apps.apple.com/mm/app/myanmar-teacher-platform/id6444518874)
-- [Google Play](https://play.google.com/store/apps/details?id=com.misfit.mtp)
+### 7. 🏫 Myanmar Teacher Platform
+An online learning application for Myanmar teachers. Maintained as Technical Project Manager and personally developed new features.
+*   🔗 **Links:** [App Store](https://apps.apple.com/mm/app/myanmar-teacher-platform/id6444518874) | [Google Play](https://play.google.com/store/apps/details?id=com.misfit.mtp)
 
-### 7. Phone King Plus *(Customer App)*
+### 8. 👑 Phone King Plus *(Customer App)*
 A loyalty rewards platform — earn points per purchase, track rewards, redeem exclusive offers, get instant deal updates.
-- [App Store](https://apps.apple.com/th/app/phone-king-plus/id6757488887)
-- [Google Play](https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_customer&hl=en_US)
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/phone-king-plus/id6757488887) | [Google Play](https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_customer&hl=en_US)
 
-### 8. Phone King Plus Admin
-Admin panel companion to Phone King Plus for managing the loyalty platform.
-- [App Store](https://apps.apple.com/th/app/phoneking-plus-admin/id6757606298)
-- [Google Play](https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_admin)
+### 9. 🛠️ Phone King Plus Admin
+Admin panel companion to Phone King Plus for managing the loyalty platform configurations.
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/phoneking-plus-admin/id6757606298) | [Google Play](https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_admin)
 
-### 9. SHRE Global — NFC Digital Business Card
-A sustainable digital business card platform using **NFC technology and QR codes**. Key feature: NFC read/write to encode business card details onto NFC-enabled devices. Includes lead collection, analytics, and customizable premium metal cards.
-- [App Store](https://apps.apple.com/th/app/shre-global/id6478900901)
+### 📇 SHRE Global & SHRE *(SHRE™)*
+A premium digital identity and sustainable networking ecosystem utilizing hardware tokens.
+*   **NFC Execution:** Wrote custom read/write logic allowing real-time injection of contact cryptographic tokens into premium physical metal business cards or target NFC devices via standard mobile phones.
+*   🔗 **Links:** [App Store](https://apps.apple.com/th/app/shre-global/id6478900901)
 
-### 10. Joy Detox & Healthy Meal
-A nutrition and exercise planner with plans and challenges for healthy living. Payment integrations: **KBZ Pay, Wave Pay, MPU**.
-- [Google Play](https://play.google.com/store/apps/details?id=com.joy.mm&hl=en)
+### 🥗 Joy Detox & Healthy Meal *(MM-Digital-Solutions)*
+A nutrition and exercise planner with plans and challenges for healthy living. Payment integrations: KBZ Pay, Wave Pay, MPU.
+*   🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.joy.mm&hl=en)
 
-### 11. AHARA-ATHI (AharaAti DigiX)
+### 🩻 AHARA-ATHI (AharaAti DigiX)
 A wellness app providing BMI tracking, nutritional information guides, fitness routines, and personalized health knowledge.
-- [Google Play](https://play.google.com/store/apps/details?id=com.aharaathi.digix&hl=en)
+*   🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.aharaathi.digix&hl=en)
 
-### 12. The Shepherd
+### ⛪ The Shepherd
 A Christian platform for Myanmar believers — Bible reading, hymns collection, church membership, event participation, and real-time church announcements.
-- [Google Play](https://play.google.com/store/apps/details?id=com.mcnp.myanmar_christian_platform)
+*   🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.mcnp.myanmar_christian_platform)
 
-### 13. PADC.com.mm *(Mobile + Web)*
-A developer learning platform with courses, classes, and modules. Single Flutter codebase for website + Android + iOS. Web deployed to Google Cloud. *(Platform shut down due to Myanmar crisis)*
+---
 
-### 14. Healtppy Telemedicine *(Doctor & Patient)*
-A fully integrated telemedicine app built with Flutter. Teleconsultation via native Android & iOS components connected to Flutter. Includes **Patient app** and **Doctor app** — both launched on Android and iOS. *(Platform shut down due to Myanmar crisis)*
+## 💼 Work Experience Summary
+
+*   **Foxbith** | Frontend Engineer / Software Engineer | `Jan 2026 – Present`
+*   **Bluebox Global** | Lead Developer / Senior Mobile Engineer | `Jun 2025 – Jul 2026`
+*   **Freelance Software Engineer** | Full-Stack & Mobile Development | `Jan 2022 – Present`
+*   **Dinger** | Senior Mobile Engineer / Mobile Engineer | `Oct 2023 – Sep 2025`
+*   **SHRE™** | Senior Mobile Engineer (Part-time NFC Specialist) | `Oct 2024 – Apr 2025`
+*   **CodeWall Technologies** | Course Instructor (Part-time) | `Nov 2022 – Nov 2024`
+*   **MM-Digital-Solutions** | Mobile Application Developer / Intern | `Jul 2022 – Oct 2024`
 
 ---
 
 ## 🎓 Education
 
-### BSc (Hons) in Computing
-**University of Greenwich, United Kingdom (2023 – Feb 2025)**
-Second Class Honours (1st Division) — Upper Second Class Honours
-Modules: Enterprise Web Software Development, Mobile Application Design & Development, Final Year Project, HCI & Design, Requirements Management
-- [View Degree](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/8iu_001.pdf)
-
-### Diploma in Software Engineering
-**University of Yangon / NMDC (Mar 2018 – Mar 2020)**
-GPA: 4.0
-Key Project: **Banking Transaction System** — VB.NET, C++, SQL with stored procedures, audit trails, role-based access, real-time balance updates
-- [View Diploma](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/SCAN0017.PDF)
-
-### Diploma in System Creator
-**Metro IT Business College, Japan (2020 – Mar 2022)**
-2-year programme — Computer fundamentals, system design, project planning, management. **Japanese: N3 Level**
-Key Project: Hospital Management System (with additional features)
-- [Diploma (English)](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/SCAN0018.PDF)
-- [Diploma (Japanese)](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/SCAN0019.PDF)
-
-### Dagon University (2017 – 2020)
-Did not complete due to COVID-19 and the political situation in Myanmar.
-
----
-
-## 📜 Certifications
-
-- **Fundamental Information Technology Engineer Examination (FE)**
-  Myanmar Computer Professionals Associations
-  - [Certificate](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/FE%20Certificate%20.pdf)
-
-- **Information Technology Professionals Examination Council Common Examination (IP)**
-  Myanmar Computer Professionals Associations
-  - [Certificate](https://github.com/ThihaThantSin777/ThihaThantSin777/blob/main/IP%20Certificate%20.pdf)
+*   🎓 **BSc (Hons) in Computing** – *University of Greenwich, UK* | `2023 – 2025`
+    *   Second Class Honours (1st Division) — Upper Second Class Honours
+*   📜 **Diploma in Software Engineering** – *University of Yangon / NMDC* | `2018 – 2020`
+    *   GPA: 4.0 | Featured Project: Comprehensive Banking Transaction System (VB.NET, C++, SQL)
+*   🇯🇵 **Diploma in System Creator** – *Metro IT Business College, Japan* | `2020 – 2022`
+    *   Two-year systemic planning, fundamentals, and project lifecycle management. Language: **JLPT N3 Level**.
 
 ---
 
 ## 📬 Let's Connect
 
-- 📍 Bangkok, Thailand
-- 📧 [thantsin7755@gmail.com](mailto:thantsin7755@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/thiha-thantsin-bb3b25224)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thiha--portfolio.web.app-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://thiha-portfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiha_Thant_Sin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiha-thantsin-bb3b25224)
+[![Email](https://img.shields.io/badge/Email-thantsin7755%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thantsin7755@gmail.com)
 
 ---
-
-### ✨ Personal Motto
-
-> "Crafting meaningful mobile experiences with precision, speed, and purpose."
-
-Thanks for visiting!
-Feel free to reach out if you want to collaborate or build something impactful together. 🚀
+✨ *Crafting meaningful mobile and cloud experiences with precision, speed, and purpose.*
