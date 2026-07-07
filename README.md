@@ -79,20 +79,20 @@ A loyalty rewards platform — earn points per purchase, track rewards, redeem e
 Admin panel companion to Phone King Plus for managing the loyalty platform configurations.
 *   🔗 **Links:** [App Store](https://apps.apple.com/th/app/phoneking-plus-admin/id6757606298) | [Google Play](https://play.google.com/store/apps/details?id=asia.rootstudio.phone_king_admin)
 
-### 📇 SHRE Global & SHRE *(SHRE™)*
+### 10. SHRE Global & SHRE *(SHRE™)*
 A premium digital identity and sustainable networking ecosystem utilizing hardware tokens.
 *   **NFC Execution:** Wrote custom read/write logic allowing real-time injection of contact cryptographic tokens into premium physical metal business cards or target NFC devices via standard mobile phones.
 *   🔗 **Links:** [App Store](https://apps.apple.com/th/app/shre-global/id6478900901)
 
-### 🥗 Joy Detox & Healthy Meal *(MM-Digital-Solutions)*
+### 11. Joy Detox & Healthy Meal *(MM-Digital-Solutions)*
 A nutrition and exercise planner with plans and challenges for healthy living. Payment integrations: KBZ Pay, Wave Pay, MPU.
 *   🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.joy.mm&hl=en)
 
-### 🩻 AHARA-ATHI (AharaAti DigiX)
+### 12. AHARA-ATHI (AharaAti DigiX)
 A wellness app providing BMI tracking, nutritional information guides, fitness routines, and personalized health knowledge.
 *   🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.aharaathi.digix&hl=en)
 
-### ⛪ The Shepherd
+### 13. The Shepherd
 A Christian platform for Myanmar believers — Bible reading, hymns collection, church membership, event participation, and real-time church announcements.
 *   🔗 **Links:** [Google Play](https://play.google.com/store/apps/details?id=com.mcnp.myanmar_christian_platform)
 
